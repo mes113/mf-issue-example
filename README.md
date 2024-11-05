@@ -33,7 +33,7 @@ index.cjs.js:102 Uncaught TypeError: isomorphicRslog.createLogger is not a funct
 
 ## Steps to Reproduce
 
-1. Install dependencies
+1. Install dependencies with PNPM or NPM
 2. Run the application
 3. Error occurs during initialization of Module Federation SDK
 
